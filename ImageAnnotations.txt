@@ -1,0 +1,3060 @@
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/CoffeToGo/10_001.jpg
+
+object: 1
+bbox: 423,151,226,249
+label: Cup
+
+object: 2
+bbox: 163,42,238,277
+label: Cup
+
+object: 3
+bbox: 126,213,277,201
+label: Cup
+
+object: 4
+bbox: 450,0,232,217
+label: Cup
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/CoffeToGo/10_002.jpg
+
+object: 5
+bbox: 523,191,109,101
+label: Cup
+
+object: 6
+bbox: 2,-36,686,218
+label: Floor
+
+object: 7
+bbox: 2,177,665,172
+label: Floor
+
+object: 8
+bbox: 4,346,766,67
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/CoffeToGo/10_003.jpg
+
+object: 9
+bbox: 322,-2,253,376
+label: Cup
+
+object: 11
+bbox: 16,75,275,291
+label: Cup
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/CoffeToGo/10_004.jpg
+
+object: 12
+bbox: 169,194,235,150
+label: Cup
+
+object: 13
+bbox: 0,266,624,103
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/coral_reef/04_001.jpg
+
+object: 14
+bbox: 178,54,448,333
+label: coral_reef
+
+object: 15
+bbox: 451,214,200,191
+label: Ocean
+
+object: 16
+bbox: 35,1,329,92
+label: Ocean
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/coral_reef/04_002.jpg
+
+object: 17
+bbox: 5,187,657,182
+label: coral_reef
+
+object: 18
+bbox: 6,25,653,62
+label: Sky
+
+object: 19
+bbox: 16,1,664,35
+label: Cloud
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/coral_reef/04_003.jpg
+
+object: 20
+bbox: 261,137,35,40
+label: Fish
+
+object: 21
+bbox: 485,98,91,55
+label: Fish
+
+object: 22
+bbox: 6,219,663,225
+label: Coral
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/coral_reef/04_004.jpg
+
+object: 23
+bbox: 271,210,106,189
+label: Fish
+
+object: 24
+bbox: 93,341,103,32
+label: Fish
+
+object: 25
+bbox: 354,125,59,32
+label: Fish
+
+object: 26
+bbox: 381,252,289,157
+label: Coral
+
+object: 27
+bbox: 3,231,317,197
+label: Coral
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/coral_reef/04_005.jpg
+
+object: 28
+bbox: 369,69,200,215
+label: Coral
+
+object: 29
+bbox: 492,267,177,166
+label: Coral
+
+object: 30
+bbox: 5,26,335,224
+label: Coral
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/coral_reef/04_006.jpg
+
+object: 31
+bbox: 98,2,434,330
+label: Coral
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/coral_reef/04_007.jpg
+
+object: 32
+bbox: 304,138,310,133
+label: Coral
+
+object: 33
+bbox: -115,126,418,277
+label: Coral
+
+object: 34
+bbox: 1,-2,687,126
+label: Ocean
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/coral_reef/04_008.jpg
+
+object: 35
+bbox: 395,311,272,87
+label: coral_reef
+
+object: 36
+bbox: 2,145,653,60
+label: Ocean
+
+object: 37
+bbox: 7,4,646,135
+label: Sky
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/coral_reef/04_009.jpg
+
+object: 38
+bbox: 562,170,95,98
+label: Coral
+
+object: 39
+bbox: 540,275,147,128
+label: Coral
+
+object: 40
+bbox: 0,88,102,120
+label: Coral
+
+object: 41
+bbox: 7,210,465,200
+label: Coral
+
+object: 42
+bbox: 249,154,133,80
+label: Coral
+
+object: 43
+bbox: 132,51,62,24
+label: Fish
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/coral_reef/04_010.jpg
+
+object: 45
+bbox: 5,14,132,406
+label: Ocean
+
+object: 46
+bbox: 173,110,177,300
+label: coral_reef
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/coral_reef/04_011.jpg
+
+object: 47
+bbox: 5,181,408,202
+label: Ocean
+
+object: 48
+bbox: 483,182,165,224
+label: coral_reef
+
+object: 49
+bbox: 9,3,644,165
+label: Sky
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/coral_reef/04_012.jpg
+
+object: 50
+bbox: 266,40,537,640
+label: Fish
+
+object: 51
+bbox: 823,396,394,328
+label: Coral
+
+object: 52
+bbox: -99,119,412,611
+label: Coral
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/coral_reef/04_013.jpg
+
+object: 53
+bbox: 801,363,99,70
+label: Fish
+
+object: 54
+bbox: 244,191,85,53
+label: Fish
+
+object: 55
+bbox: 57,72,86,55
+label: Fish
+
+object: 56
+bbox: 4,450,480,104
+label: Coral
+
+object: 57
+bbox: 283,291,353,208
+label: Coral
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/coral_reef/04_014.jpg
+
+object: 58
+bbox: 5,6,303,400
+label: Coral
+
+object: 59
+bbox: 322,169,612,291
+label: Coral
+
+object: 60
+bbox: 423,64,38,28
+label: Fish
+
+object: 61
+bbox: 658,92,42,28
+label: Fish
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/coral_reef/04_015.jpg
+
+object: 62
+bbox: 163,42,795,435
+label: Coral
+
+object: 63
+bbox: 445,236,131,46
+label: Fish
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/coral_reef/04_016.jpg
+
+object: 64
+bbox: 124,3,381,368
+label: coral_reef
+
+object: 65
+bbox: -3,-2,150,114
+label: Ocean
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/coral_reef/04_017.jpg
+
+object: 66
+bbox: 475,281,118,97
+label: Coral
+
+object: 67
+bbox: 3,248,245,127
+label: Coral
+
+object: 68
+bbox: 136,10,289,152
+label: Person
+
+object: 69
+bbox: 445,52,90,187
+label: Person
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Deforestation/07_001.jpg
+
+object: 70
+bbox: 650,243,65,29
+label: Backhoe
+
+object: 71
+bbox: 554,62,293,151
+label: Vegetation
+
+object: 72
+bbox: 644,283,370,157
+label: Vegetation
+
+object: 73
+bbox: 705,-39,299,161
+label: Vegetation
+
+object: 74
+bbox: 6,4,523,376
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Deforestation/07_002.jpg
+
+object: 75
+bbox: 391,39,238,339
+label: Floor
+
+object: 76
+bbox: 4,43,250,324
+label: Vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Deforestation/07_003.jpg
+
+object: 77
+bbox: 406,67,217,186
+label: Vegetation
+
+object: 78
+bbox: -1,108,280,157
+label: Vegetation
+
+object: 79
+bbox: 38,1,471,105
+label: Sky
+
+object: 80
+bbox: 13,294,608,143
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Deforestation/07_004.jpg
+
+object: 81
+bbox: 482,37,63,161
+label: Tree
+
+object: 82
+bbox: 1,133,630,66
+label: Vegetation
+
+object: 83
+bbox: 0,199,619,175
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Deforestation/07_005.jpg
+
+object: 84
+bbox: 6,4,545,429
+label: Vegetation
+
+object: 85
+bbox: 612,2,393,427
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Deforestation/07_006.jpg
+
+object: 86
+bbox: 329,205,52,86
+label: Backhoe
+
+object: 87
+bbox: 275,27,344,198
+label: Vegetation
+
+object: 88
+bbox: -1,197,225,174
+label: Vegetation
+
+object: 89
+bbox: 7,3,176,114
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Deforestation/07_007.jpg
+
+object: 90
+bbox: 223,117,58,167
+label: Person
+
+object: 91
+bbox: 4,148,491,202
+label: Floor
+
+object: 92
+bbox: 8,7,496,155
+label: Floor
+
+object: 93
+bbox: 123,158,30,48
+label: Trunk
+
+object: 94
+bbox: 337,157,35,64
+label: Trunk
+
+object: 95
+bbox: -1,165,58,86
+label: Trunk
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Deforestation/07_008.jpg
+
+object: 96
+bbox: 3,334,423,110
+label: Floor
+
+object: 97
+bbox: 766,230,149,167
+label: Vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Deforestation/07_009.jpg
+
+object: 98
+bbox: 5,7,1014,336
+label: Vegetation
+
+object: 99
+label: Smog
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Deforestation/07_010.jpg
+
+object: 100
+bbox: 677,176,342,261
+label: Vegetation
+
+object: 101
+bbox: 136,93,622,63
+label: Vegetation
+
+object: 102
+bbox: 31,260,641,165
+label: Grass
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Deforestation/07_011.jpg
+
+object: 103
+bbox: 9,4,829,302
+label: Smog
+
+object: 104
+bbox: 668,285,342,152
+label: Vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Deforestation/07_012.jpg
+
+object: 105
+bbox: 335,-4,292,127
+label: Vegetation
+
+object: 106
+bbox: 162,201,110,146
+label: Floor
+
+object: 107
+bbox: 561,245,82,145
+label: Vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Deforestation/07_013.jpg
+
+object: 108
+bbox: 111,11,897,42
+label: Vegetation
+
+object: 109
+bbox: 3,52,180,137
+label: Grass
+
+object: 110
+bbox: 606,361,324,65
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Deforestation/07_014.jpg
+
+object: 111
+bbox: 4,6,1237,410
+label: Sky
+
+object: 112
+bbox: 231,416,1000,327
+label: Wood
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Deforestation/07_015.jpg
+
+object: 113
+bbox: 436,313,138,327
+label: Tree
+
+object: 114
+bbox: 224,-25,989,779
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Deforestation/07_016.jpg
+
+object: 115
+bbox: 2,39,254,333
+label: Vegetation
+
+object: 116
+bbox: 293,30,329,337
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Deforestation/07_017.jpg
+
+object: 117
+bbox: 349,278,108,91
+label: Wood
+
+object: 118
+bbox: 492,130,102,226
+label: Trunk
+
+object: 119
+bbox: 270,72,101,292
+label: Person
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Deforestation/07_018.jpg
+
+object: 120
+bbox: 557,25,193,535
+label: Tree
+
+object: 121
+bbox: 278,495,106,229
+label: Trunk
+
+object: 122
+bbox: 756,460,251,163
+label: Vegetation
+
+object: 123
+bbox: -34,231,639,221
+label: Sky
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Deforestation/07_019.jpg
+
+object: 124
+bbox: 26,7,981,364
+label: Smog
+
+object: 125
+bbox: 748,397,193,312
+label: Vegetation
+
+object: 126
+label: Vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Deforestation/07_020.jpg
+
+object: 127
+bbox: 0,-16,999,125
+label: Vegetation
+
+object: 128
+bbox: 4,114,660,203
+label: Vegetation
+
+object: 129
+bbox: 488,264,514,285
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Drought/06_001.jpg
+
+object: 130
+bbox: 11,278,1008,253
+label: Floor
+
+object: 131
+bbox: -1,182,888,59
+label: Vegetation
+
+object: 132
+bbox: 509,249,409,26
+label: Ocean
+
+object: 133
+bbox: 2,16,1008,84
+label: Sky
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Drought/06_002.jpg
+
+object: 134
+bbox: 622,309,373,405
+label: Floor
+
+object: 135
+bbox: 8,505,555,258
+label: Floor
+
+object: 136
+bbox: 634,208,238,59
+label: Grass
+
+object: 137
+bbox: 3,152,412,96
+label: Grass
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Drought/06_003.jpg
+
+object: 138
+bbox: 548,261,151,359
+label: Person
+
+object: 139
+bbox: 5,225,523,412
+label: Floor
+
+object: 140
+bbox: 16,18,989,193
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Drought/06_004.jpg
+
+object: 141
+bbox: 10,344,1009,366
+label: Floor
+
+object: 142
+bbox: 468,250,39,69
+label: Person
+
+object: 143
+bbox: 556,227,43,99
+label: Person
+
+object: 144
+bbox: 11,203,994,98
+label: Ocean
+
+object: 145
+bbox: 635,142,337,72
+label: Vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Drought/06_005.jpg
+
+object: 146
+bbox: 6,333,995,118
+label: Floor
+
+object: 147
+bbox: 6,123,995,117
+label: Sky
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Drought/06_006.jpg
+
+object: 148
+bbox: 509,177,216,406
+label: Person
+
+object: 149
+bbox: 19,124,476,367
+label: Floor
+
+object: 150
+bbox: 770,114,447,376
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Drought/06_007.jpg
+
+object: 151
+bbox: 846,30,182,421
+label: Person
+
+object: 152
+bbox: 1012,479,207,206
+label: Grass
+
+object: 153
+bbox: 262,575,760,163
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Drought/06_008.jpg
+
+object: 154
+bbox: 11,154,934,369
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Drought/06_009.jpg
+
+object: 155
+bbox: 3,153,314,286
+label: Floor
+
+object: 156
+bbox: 130,68,70,67
+label: Vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Drought/06_010.jpg
+
+object: 157
+bbox: 294,50,123,254
+label: Person
+
+object: 158
+bbox: 272,127,193,75
+label: Vegetation
+
+object: 159
+bbox: 7,6,286,434
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Drought/06_011.jpg
+
+object: 160
+bbox: 109,118,504,309
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Drought/06_012.jpg
+
+object: 161
+bbox: 22,201,913,251
+label: Floor
+
+object: 162
+bbox: 10,79,580,83
+label: Ocean
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Drought/06_013.jpg
+
+object: 163
+bbox: 437,310,154,139
+label: Floor
+
+object: 164
+bbox: -1,365,434,105
+label: Floor
+
+object: 165
+bbox: 19,4,909,287
+label: Sky
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Drought/06_014.jpg
+
+object: 166
+bbox: -12,285,923,87
+label: Floor
+
+object: 167
+bbox: 336,388,602,64
+label: Grass
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Drought/06_015.jpg
+
+object: 168
+bbox: 4,273,912,169
+label: Floor
+
+object: 169
+bbox: -1,178,111,85
+label: Grass
+
+object: 170
+bbox: 386,194,279,74
+label: Grass
+
+object: 171
+bbox: 214,83,65,166
+label: Person
+
+object: 172
+bbox: 107,94,55,154
+label: Person
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Drought/06_016.jpg
+
+object: 173
+bbox: 701,164,106,285
+label: Person
+
+object: 174
+bbox: 282,253,65,147
+label: Person
+
+object: 175
+bbox: 505,187,89,248
+label: Person
+
+object: 176
+bbox: 9,349,625,115
+label: Floor
+
+object: 177
+bbox: 783,319,156,106
+label: Grass
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Drought/06_017.jpg
+
+object: 179
+bbox: 3,129,637,267
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Drought/06_018.jpg
+
+object: 180
+bbox: 89,9,534,382
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Flooding/05_001.jpg
+
+object: 181
+bbox: 87,317,326,417
+label: Sign
+
+object: 182
+label: Ocean
+
+object: 183
+bbox: 746,320,488,460
+label: Ocean
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Flooding/05_002.jpg
+
+object: 184
+bbox: 142,319,288,129
+label: Car
+
+object: 185
+bbox: 141,440,466,209
+label: Ocean
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Flooding/05_003.jpg
+
+object: 186
+bbox: 16,530,988,209
+label: Grass
+
+object: 187
+bbox: 635,289,375,220
+label: Vegetation
+
+object: 188
+bbox: 6,7,403,236
+label: Vegetation
+
+object: 189
+bbox: 391,387,181,135
+label: Ocean
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Flooding/05_004.jpg
+
+object: 190
+bbox: 771,254,130,326
+label: Person
+
+object: 191
+bbox: 592,232,160,351
+label: Person
+
+object: 192
+bbox: 74,523,559,103
+label: Ocean
+
+object: 193
+bbox: 489,380,52,164
+label: Person
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Flooding/05_005.jpg
+
+object: 194
+bbox: 99,526,827,86
+label: Ocean
+
+object: 195
+bbox: 779,475,67,54
+label: Car
+
+object: 196
+bbox: 4,262,489,255
+label: Vegetation
+
+object: 197
+bbox: 804,4,200,304
+label: Building
+
+object: 198
+bbox: 395,39,155,281
+label: Building
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Flooding/05_006.jpg
+
+object: 199
+bbox: 608,85,395,151
+label: Sign
+
+object: 200
+bbox: 42,7,154,174
+label: Sign
+
+object: 201
+bbox: 514,385,55,60
+label: Person
+
+object: 202
+bbox: 6,272,468,379
+label: Ocean
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Flooding/05_007.jpg
+
+object: 203
+bbox: 481,195,129,120
+label: Person
+
+object: 204
+bbox: 40,134,78,146
+label: Person
+
+object: 205
+bbox: 188,141,70,149
+label: Person
+
+object: 206
+bbox: 6,285,505,89
+label: Floor
+
+object: 207
+bbox: 246,136,97,159
+label: Person
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Flooding/05_008.jpg
+
+object: 208
+bbox: 16,544,484,205
+label: Floor
+
+object: 209
+bbox: 303,378,482,154
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Flooding/05_009.jpg
+
+object: 210
+bbox: 54,278,566,94
+label: Ocean
+
+object: 211
+bbox: 392,123,74,181
+label: Person
+
+object: 212
+bbox: 300,105,95,193
+label: Person
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Flooding/05_010.jpg
+
+object: 213
+bbox: 582,191,25,47
+label: Person
+
+object: 214
+bbox: 454,194,25,48
+label: Person
+
+object: 215
+bbox: 291,373,570,52
+label: Ocean
+
+object: 216
+bbox: 452,7,155,179
+label: Building
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Flooding/05_011.jpg
+
+object: 217
+bbox: 659,129,183,136
+label: Car
+
+object: 218
+bbox: 261,214,439,233
+label: Ocean
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Flooding/05_012.jpg
+
+object: 219
+bbox: 132,28,97,311
+label: Person
+
+object: 220
+bbox: 492,54,111,249
+label: Person
+
+object: 221
+bbox: 8,303,766,158
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Flooding/05_013.jpg
+
+object: 222
+bbox: 164,216,75,189
+label: Person
+
+object: 223
+bbox: 304,256,67,53
+label: Car
+
+object: 224
+bbox: 380,283,369,158
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Flooding/05_014.jpg
+
+object: 225
+bbox: 18,165,239,109
+label: Floor
+
+object: 226
+bbox: 423,146,323,271
+label: Floor
+
+object: 227
+bbox: 429,1,112,98
+label: Building
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Flooding/05_015.jpg
+
+object: 228
+bbox: 343,3,319,218
+label: Car
+
+object: 229
+bbox: 31,15,141,113
+label: Car
+
+object: 230
+bbox: 6,199,769,226
+label: Ocean
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Flooding/05_016.jpg
+
+object: 231
+bbox: 293,158,84,194
+label: Person
+
+object: 232
+bbox: 390,168,59,169
+label: Person
+
+object: 233
+bbox: 46,327,689,138
+label: Ocean
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Flooding/05_017.jpg
+
+object: 234
+bbox: 6,278,529,157
+label: Ocean
+
+object: 235
+bbox: 214,130,32,109
+label: Person
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/OrangUtan/03_001.jpg
+
+object: 236
+bbox: 332,39,236,330
+label: Orangutan
+
+object: 237
+bbox: 115,24,214,349
+label: Orangutan
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/OrangUtan/03_002.jpg
+
+object: 238
+bbox: 104,25,332,291
+label: Orangutan
+
+object: 239
+bbox: 456,8,155,354
+label: Vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/OrangUtan/03_003.jpg
+
+object: 241
+bbox: 290,9,326,176
+label: Orangutan
+
+object: 242
+bbox: 256,134,323,241
+label: Orangutan
+
+object: 243
+bbox: 0,0,259,367
+label: Vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/OrangUtan/03_004.jpg
+
+object: 244
+bbox: 170,22,278,335
+label: Orangutan
+
+object: 245
+bbox: 455,9,174,261
+label: Vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/OrangUtan/03_005.jpg
+
+object: 246
+bbox: 434,378,141,158
+label: Orangutan
+
+object: 247
+bbox: 326,175,561,407
+label: Orangutan
+
+object: 248
+bbox: 8,159,244,430
+label: Vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/OrangUtan/03_006.jpg
+
+object: 249
+bbox: 111,31,321,281
+label: Orangutan
+
+object: 250
+bbox: 184,255,435,116
+label: Vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/OrangUtan/03_007.jpg
+
+object: 251
+bbox: 291,5,309,193
+label: Orangutan
+
+object: 252
+bbox: 279,143,305,225
+label: Orangutan
+
+object: 253
+bbox: 6,4,270,366
+label: Vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/OrangUtan/03_008.jpg
+
+object: 254
+bbox: 417,269,382,364
+label: Orangutan
+
+object: 255
+bbox: 88,188,189,445
+label: Tree
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/OrangUtan/03_009.jpg
+
+object: 256
+bbox: 477,378,241,215
+label: Orangutan
+
+object: 257
+bbox: 542,245,278,240
+label: Orangutan
+
+object: 258
+bbox: 651,72,590,122
+label: Vegetation
+
+object: 259
+bbox: 52,422,368,217
+label: Grass
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/OrangUtan/03_010.jpg
+
+object: 260
+bbox: 46,134,366,332
+label: Orangutan
+
+object: 261
+bbox: 471,175,528,352
+label: Orangutan
+
+object: 262
+bbox: 309,124,254,167
+label: Vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/OrangUtan/03_011.jpg
+
+object: 263
+bbox: 154,12,303,344
+label: Orangutan
+
+object: 264
+bbox: 7,5,141,350
+label: Vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/OrangUtan/03_012.jpg
+
+object: 265
+bbox: 504,101,299,422
+label: Orangutan
+
+object: 266
+bbox: 13,88,385,423
+label: Vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/OrangUtan/03_013.jpg
+
+object: 267
+bbox: 411,114,117,110
+label: Orangutan
+
+object: 268
+bbox: 55,170,166,130
+label: Orangutan
+
+object: 269
+bbox: 293,90,123,165
+label: Orangutan
+
+object: 270
+bbox: 87,77,107,101
+label: Orangutan
+
+object: 271
+bbox: 266,310,327,86
+label: Grass
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/OrangUtan/03_014.jpg
+
+object: 272
+bbox: 589,229,141,195
+label: Orangutan
+
+object: 273
+bbox: 476,8,308,217
+label: Vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/OrangUtan/03_015.jpg
+
+object: 274
+bbox: 312,190,106,180
+label: Orangutan
+
+object: 275
+bbox: 162,5,232,420
+label: Orangutan
+
+object: 276
+bbox: 459,164,119,270
+label: Vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/OrangUtan/03_016.jpg
+
+object: 277
+bbox: 166,59,165,219
+label: Orangutan
+
+object: 278
+bbox: 81,2,76,276
+label: Tree
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/OrangUtan/03_017.jpg
+
+object: 279
+bbox: 32,26,211,126
+label: Orangutan
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/OrangUtan/03_018.jpg
+
+object: 280
+bbox: 176,57,559,378
+label: Orangutan
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/polar_bear/08_001.jpg
+
+object: 281
+bbox: 0,45,550,307
+label: polar_bear
+
+object: 282
+bbox: 208,0,404,131
+label: Floor
+
+object: 283
+bbox: 14,297,434,162
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/polar_bear/08_002.jpg
+
+object: 284
+bbox: 209,107,170,125
+label: polar_bear
+
+object: 285
+bbox: 7,5,200,364
+label: Snow
+
+object: 286
+bbox: 373,6,244,365
+label: Snow
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/polar_bear/08_003.jpg
+
+object: 287
+bbox: 417,228,86,82
+label: polar_bear
+
+object: 288
+bbox: 85,244,73,130
+label: polar_bear
+
+object: 289
+bbox: 190,127,53,61
+label: polar_bear
+
+object: 290
+bbox: 326,113,286,92
+label: Snow
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/polar_bear/08_004.jpg
+
+object: 291
+bbox: 83,150,169,95
+label: polar_bear
+
+object: 292
+bbox: 472,164,152,208
+label: Snow
+
+object: 293
+bbox: 7,-1,68,131
+label: Snow
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/polar_bear/08_005.jpg
+
+object: 294
+bbox: 131,23,325,305
+label: polar_bear
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/polar_bear/08_006.jpg
+
+object: 295
+bbox: 82,24,478,285
+label: polar_bear
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/polar_bear/08_007.jpg
+
+object: 296
+bbox: 91,184,287,132
+label: polar_bear
+
+object: 297
+bbox: 11,296,608,71
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/polar_bear/08_008.jpg
+
+object: 298
+bbox: 210,204,127,158
+label: polar_bear
+
+object: 299
+bbox: 109,37,283,292
+label: polar_bear
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/polar_bear/08_009.jpg
+
+object: 300
+bbox: 76,382,630,228
+label: polar_bear
+
+object: 301
+bbox: 706,436,282,309
+label: Snow
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/polar_bear/08_010.jpg
+
+object: 302
+bbox: 53,279,165,154
+label: polar_bear
+
+object: 303
+bbox: 432,130,253,152
+label: polar_bear
+
+object: 304
+bbox: 14,417,447,127
+label: Snow
+
+object: 305
+bbox: 6,135,379,142
+label: Ocean
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/polar_bear/08_011.jpg
+
+object: 306
+bbox: 435,359,358,153
+label: Ocean
+
+object: 307
+bbox: 308,332,152,121
+label: polar_bear
+
+object: 308
+bbox: 299,104,145,152
+label: polar_bear
+
+object: 309
+bbox: 11,85,280,264
+label: Snow
+
+object: 310
+bbox: 456,85,352,205
+label: Snow
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/polar_bear/08_012.jpg
+
+object: 311
+bbox: 103,137,98,106
+label: polar_bear
+
+object: 312
+bbox: 222,143,157,94
+label: polar_bear
+
+object: 313
+bbox: 201,65,149,76
+label: polar_bear
+
+object: 314
+bbox: 69,11,377,86
+label: Vegetation
+
+object: 315
+bbox: 4,115,92,187
+label: Floor
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/polar_bear/08_013.jpg
+
+object: 316
+bbox: 253,97,356,222
+label: polar_bear
+
+object: 317
+bbox: 5,292,710,73
+label: Snow
+
+object: 318
+bbox: 9,24,368,98
+label: Ocean
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/polar_bear/08_014.jpg
+
+object: 319
+bbox: 173,167,76,125
+label: polar_bear
+
+object: 320
+bbox: 33,196,112,114
+label: polar_bear
+
+object: 321
+bbox: 119,104,334,168
+label: polar_bear
+
+object: 322
+bbox: 12,2,460,145
+label: Vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/polar_bear/08_015.jpg
+
+object: 323
+bbox: 139,214,58,43
+label: polar_bear
+
+object: 324
+bbox: 205,152,413,222
+label: Floor
+
+object: 325
+bbox: 30,101,427,41
+label: Snow
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/polar_bear/08_016.jpg
+
+object: 326
+bbox: 355,175,211,98
+label: polar_bear
+
+object: 327
+bbox: 360,270,204,84
+label: polar_bear
+
+object: 328
+bbox: 268,138,79,156
+label: Snow
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/polar_bear/08_017.jpg
+
+object: 329
+bbox: 355,175,211,98
+label: polar_bear
+
+object: 330
+bbox: 360,270,204,84
+label: polar_bear
+
+object: 331
+bbox: 268,138,79,156
+label: Snow
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/polar_bear/08_018.jpg
+
+object: 332
+bbox: 196,249,66,39
+label: polar_bear
+
+object: 333
+bbox: 271,206,346,141
+label: Snow
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/polar_bear/08_019.jpg
+
+object: 334
+bbox: 196,249,66,39
+label: polar_bear
+
+object: 335
+bbox: 271,206,346,141
+label: Snow
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Smokestacks/09_001.jpg
+
+object: 1
+bbox: 218,128,78,245
+label: person
+
+object: 2
+bbox: 365,89,19,90
+label: smokestack
+
+object: 3
+bbox: 490,64,16,97
+label: smokestack
+
+object: 4
+bbox: 227,110,14,69
+label: smokestack
+
+object: 5
+bbox: 149,129,15,101
+label: smokestack
+
+object: 6
+bbox: 117,15,65,113
+label: smoke
+
+object: 7
+bbox: 193,0,63,107
+label: smoke
+
+object: 8
+bbox: 360,-2,40,95
+label: smoke
+
+object: 9
+bbox: 491,-3,24,71
+label: smoke
+
+object: 10
+bbox: 480,123,149,158
+label: building
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Smokestacks/09_002.jpg
+
+object: 11
+bbox: 111,105,33,130
+label: smokestack
+
+object: 12
+bbox: 35,99,29,184
+label: smokestack
+
+object: 13
+bbox: 223,105,26,162
+label: smokestack
+
+object: 14
+bbox: 297,105,22,131
+label: smokestack
+
+object: 15
+bbox: 396,112,23,126
+label: smokestack
+
+object: 16
+bbox: 470,115,19,116
+label: smokestack
+
+object: 17
+bbox: 562,118,20,116
+label: smokestack
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Smokestacks/09_003.jpg
+
+object: 18
+bbox: 215,167,33,105
+label: smokestack
+
+object: 19
+bbox: 325,16,33,241
+label: smokestack
+
+object: 20
+bbox: 394,340,224,32
+label: water
+
+object: 21
+bbox: 459,256,141,65
+label: building
+
+object: 22
+bbox: 214,253,236,61
+label: vegetation
+
+object: 23
+bbox: 398,202,65,112
+label: tree
+
+object: 24
+bbox: 291,306,99,62
+label: boat
+
+object: 25
+label: boat
+
+object: 26
+bbox: 39,263,293,107
+label: boat
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Smokestacks/09_004.jpg
+
+object: 27
+bbox: 360,85,37,253
+label: smokestack
+
+object: 28
+bbox: 273,113,15,98
+label: smokestack
+
+object: 29
+bbox: 247,121,20,96
+label: smokestack
+
+object: 30
+bbox: 170,149,16,82
+label: smokestack
+
+object: 31
+bbox: 174,0,60,151
+label: smoke
+
+object: 32
+bbox: 273,0,63,121
+label: smoke
+
+object: 33
+bbox: 359,1,56,94
+label: smoke
+
+object: 34
+bbox: 132,211,206,137
+label: building
+
+object: 35
+bbox: 6,228,118,118
+label: building
+
+object: 39
+bbox: 6,2,611,208
+label: sky
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Smokestacks/09_005.jpg
+
+object: 36
+bbox: 451,80,31,193
+label: smokestack
+
+object: 37
+bbox: 85,241,596,127
+label: building
+
+object: 38
+bbox: 6,3,639,231
+label: sky
+
+object: 40
+bbox: 142,365,510,41
+label: vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Smokestacks/09_006.jpg
+
+object: 41
+bbox: 3,4,888,391
+label: smoke
+
+object: 42
+label: sky
+
+object: 43
+bbox: 527,351,16,91
+label: smokestack
+
+object: 44
+bbox: 639,336,20,121
+label: smokestack
+
+object: 45
+bbox: 551,389,8,54
+label: smokestack
+
+object: 46
+bbox: 666,375,12,82
+label: smokestack
+
+object: 47
+bbox: 477,396,42,79
+label: building
+
+object: 48
+bbox: 699,388,83,67
+label: building
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Smokestacks/09_007.jpg
+
+object: 49
+bbox: 804,169,125,360
+label: smokestack
+
+object: 50
+bbox: 72,52,779,128
+label: smoke
+
+object: 51
+bbox: 47,177,807,350
+label: sky
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Smokestacks/09_008.jpg
+
+object: 52
+bbox: 730,203,42,230
+label: smokestack
+
+object: 53
+bbox: 799,211,34,217
+label: smokestack
+
+object: 54
+bbox: 306,199,173,280
+label: cooling_tower
+
+object: 55
+bbox: 558,319,103,111
+label: cooling_tower
+
+object: 56
+bbox: 670,353,64,73
+label: cooling_tower
+
+object: 57
+bbox: 450,355,64,100
+label: cooling_tower
+
+object: 58
+bbox: 537,87,294,126
+label: smoke
+
+object: 59
+bbox: 291,66,161,138
+label: smoke
+
+object: 60
+bbox: 567,216,159,135
+label: smoke
+
+object: 61
+bbox: 438,208,94,152
+label: smoke
+
+object: 62
+bbox: 521,440,298,82
+label: vegetation
+
+object: 63
+bbox: 48,381,94,127
+label: vegetation
+
+object: 64
+bbox: 143,476,111,34
+label: building
+
+object: 65
+bbox: 178,453,42,56
+label: tree
+
+object: 66
+bbox: 47,508,474,36
+label: grass
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Smokestacks/09_009.jpg
+
+object: 67
+bbox: 534,216,20,103
+label: smokestack
+
+object: 68
+bbox: 132,63,424,153
+label: smoke
+
+object: 69
+bbox: 398,311,212,58
+label: building
+
+object: 70
+bbox: 214,321,192,51
+label: building
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Smokestacks/09_010.jpg
+
+object: 71
+bbox: 376,103,30,69
+
+object: 72
+bbox: 157,222,94,98
+label: building
+
+object: 73
+bbox: 359,317,194,58
+label: building
+
+object: 74
+bbox: 336,244,232,49
+label: building
+
+object: 75
+bbox: 121,310,60,61
+label: building
+
+object: 76
+bbox: 239,318,108,51
+label: building
+
+object: 77
+bbox: 53,325,67,44
+label: building
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Smokestacks/09_011.jpg
+
+object: 78
+bbox: 261,124,116,191
+label: person
+
+object: 79
+bbox: -4,158,197,210
+label: car
+
+object: 80
+bbox: 356,83,107,137
+label: bus
+
+object: 81
+bbox: 502,99,74,113
+label: bus
+
+object: 82
+bbox: 149,6,296,109
+label: building
+
+object: 83
+bbox: 451,38,121,81
+label: tree
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Smokestacks/09_012.jpg
+
+object: 84
+bbox: 319,137,56,234
+
+object: 85
+bbox: 546,88,75,284
+label: smokestack
+
+object: 86
+bbox: 25,321,89,52
+label: cooling_tower
+
+object: 87
+bbox: 214,335,106,38
+label: cooling_tower
+
+object: 88
+bbox: 45,28,170,301
+label: smoke
+
+object: 89
+bbox: 277,5,113,136
+label: smoke
+
+object: 90
+bbox: 421,2,164,90
+
+object: 91
+bbox: 230,222,96,118
+
+object: 92
+bbox: 356,64,134,282
+label: smoke
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Smokestacks/09_013.jpg
+
+object: 93
+bbox: 264,257,17,76
+label: person
+
+object: 94
+bbox: 481,263,47,32
+label: car
+
+object: 95
+bbox: -2,251,629,119
+label: street
+
+object: 96
+bbox: 342,107,243,151
+label: construction
+
+object: 97
+bbox: 371,99,89,97
+label: traffic_sign
+
+object: 98
+bbox: 470,105,95,91
+label: traffic_sign
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Smokestacks/09_014.jpg
+
+object: 99
+bbox: 275,91,97,143
+label: building
+
+object: 100
+bbox: 79,42,62,157
+label: building
+
+object: 101
+bbox: 13,33,52,160
+label: building
+
+object: 102
+bbox: 198,91,88,107
+label: building
+
+object: 103
+bbox: 489,236,133,136
+label: building
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Smokestacks/09_015.jpg
+
+object: 104
+bbox: 365,68,88,199
+label: person
+
+object: 105
+bbox: 375,168,64,170
+label: bicycle
+
+object: 106
+bbox: 173,67,58,125
+label: person
+
+object: 107
+bbox: 188,144,23,101
+label: bicycle
+
+object: 108
+bbox: 286,73,43,70
+label: person
+
+object: 109
+bbox: 295,124,25,60
+label: bicycle
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Smokestacks/09_016.jpg
+
+object: 110
+bbox: 454,262,208,493
+label: person
+
+object: 111
+bbox: 293,523,605,162
+label: bus
+
+object: 112
+bbox: 260,39,584,437
+label: monument
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Smokestacks/09_017.jpg
+
+object: 113
+bbox: 286,300,18,53
+label: person
+
+object: 114
+bbox: 457,295,19,52
+label: person
+
+object: 115
+bbox: 480,293,20,52
+label: person
+
+object: 116
+bbox: 504,298,21,42
+label: person
+
+object: 118
+bbox: 124,22,346,319
+label: monument
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Smokestacks/09_018.jpg
+
+object: 119
+bbox: 99,163,174,214
+label: person
+
+object: 120
+bbox: 281,120,194,258
+label: person
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Smokestacks/09_019.jpg
+
+object: 121
+bbox: 390,259,58,114
+label: person
+
+object: 122
+bbox: 459,52,63,112
+label: kite
+
+object: 123
+bbox: 130,1,74,282
+label: building
+
+object: 124
+bbox: 297,169,56,145
+label: building
+
+object: 125
+bbox: 346,131,52,130
+label: building
+
+object: 126
+bbox: 417,51,39,208
+label: building
+
+object: 127
+bbox: 214,197,36,92
+label: building
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/SolarCell/02_001.jpg
+
+object: 128
+bbox: 122,88,412,235
+label: solar_panel
+
+object: 129
+bbox: 507,176,113,194
+label: grass
+
+object: 130
+bbox: 4,296,547,78
+label: grass
+
+object: 131
+bbox: 460,53,146,72
+label: grass
+
+object: 132
+bbox: 4,107,127,152
+label: grass
+
+object: 133
+bbox: 127,43,364,45
+label: grass
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/SolarCell/02_002.jpg
+
+object: 134
+bbox: 641,343,381,238
+label: solar_panel
+
+object: 135
+bbox: 20,338,602,314
+label: solar_panel
+
+object: 136
+bbox: 452,441,448,223
+label: solar_panel
+
+object: 137
+bbox: 216,222,541,272
+label: solar_panel
+
+object: 138
+bbox: -16,162,437,272
+label: solar_panel
+
+object: 139
+bbox: -5,577,258,160
+label: solar_panel
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/SolarCell/02_003.jpg
+
+object: 140
+bbox: 191,397,215,247
+label: person
+
+object: 141
+bbox: 416,531,256,132
+label: solar_panel
+
+object: 142
+bbox: 652,526,370,138
+label: solar_panel
+
+object: 143
+bbox: 58,73,781,456
+label: building
+
+object: 144
+bbox: 812,141,197,345
+label: building
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/SolarCell/02_004.jpg
+
+object: 145
+bbox: 493,210,176,174
+label: person
+
+object: 146
+bbox: 759,452,249,216
+label: solar_panel
+
+object: 147
+bbox: 553,447,268,215
+label: solar_panel
+
+object: 148
+bbox: 419,338,175,270
+label: solar_panel
+
+object: 149
+bbox: 145,433,210,132
+label: solar_panel
+
+object: 150
+bbox: 95,374,927,283
+label: roof
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/SolarCell/02_005.jpg
+
+object: 151
+bbox: 444,223,52,119
+label: solar_panel
+
+object: 152
+bbox: 1,-4,122,375
+label: tree
+
+object: 153
+bbox: 436,-7,84,183
+label: tree
+
+object: 154
+bbox: 246,128,81,70
+label: tree
+
+object: 155
+bbox: 189,277,27,54
+label: person
+
+object: 156
+bbox: 151,289,32,51
+label: person
+
+object: 157
+bbox: 137,77,479,49
+label: ocean
+
+object: 158
+bbox: 282,138,348,232
+label: building
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/SolarCell/02_006.jpg
+
+object: 159
+bbox: 2,182,619,194
+label: solar_panel
+
+object: 160
+bbox: 482,224,142,46
+label: solar_panel
+
+object: 161
+bbox: 309,212,197,56
+label: solar_panel
+
+object: 162
+bbox: 451,74,65,39
+label: solar_panel
+
+object: 163
+bbox: 534,63,55,38
+label: solar_panel
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/SolarCell/02_007.jpg
+
+object: 164
+bbox: -1,22,197,610
+label: building
+
+object: 165
+bbox: 202,159,803,485
+label: building
+
+object: 166
+bbox: 253,165,683,147
+label: solar_panel
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/SolarCell/02_008.jpg
+
+object: 167
+bbox: 242,55,773,100
+label: vegetation
+
+object: 168
+bbox: -4,97,284,556
+label: solar_panel
+
+object: 169
+bbox: 183,121,402,532
+label: solar_panel
+
+object: 170
+bbox: 542,156,241,475
+label: solar_panel
+
+object: 171
+bbox: 767,175,122,388
+label: solar_panel
+
+object: 172
+bbox: 893,181,79,346
+label: solar_panel
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/SolarCell/02_009.jpg
+
+object: 173
+bbox: 224,493,88,138
+label: person
+
+object: 174
+bbox: 349,283,442,367
+label: solar_panel
+
+object: 175
+bbox: 355,78,665,185
+label: solar_panel
+
+object: 176
+bbox: 5,179,324,270
+label: solar_panel
+
+object: 177
+bbox: 4,450,231,201
+label: grass
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/SolarCell/02_010.jpg
+
+object: 178
+bbox: 214,41,488,358
+label: person
+
+object: 179
+bbox: -2,85,230,416
+label: solar_panel
+
+object: 180
+bbox: 662,120,281,395
+label: solar_panel
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/SolarCell/02_011.jpg
+
+object: 181
+bbox: 215,116,714,398
+label: solar_panel
+
+object: 182
+bbox: 4,6,227,116
+label: sky
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/SolarCell/02_012.jpg
+
+object: 183
+bbox: 214,163,527,110
+label: building
+
+object: 184
+bbox: 21,310,274,71
+label: solar_panel
+
+object: 185
+bbox: 304,287,316,91
+label: solar_panel
+
+object: 186
+bbox: 724,1,219,379
+label: tree
+
+object: 187
+bbox: -1,400,287,125
+label: vegetation
+
+object: 188
+bbox: 444,403,495,129
+label: vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/SolarCell/02_013.jpg
+
+object: 189
+bbox: 224,113,685,407
+label: solar_panel
+
+object: 190
+bbox: 7,5,189,139
+label: sky
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/SolarCell/02_014.jpg
+
+object: 191
+bbox: 3,202,387,139
+label: solar_panel
+
+object: 192
+bbox: 7,2,610,156
+label: sky
+
+object: 193
+bbox: 5,160,617,43
+label: vegetation
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/SolarCell/02_015.jpg
+
+object: 194
+bbox: 375,240,75,136
+label: person
+
+object: 195
+bbox: 306,130,302,163
+label: solar_panel
+
+object: 196
+bbox: 39,79,284,145
+label: building
+
+object: 197
+bbox: -6,179,348,183
+label: building
+
+object: 198
+bbox: 2,22,101,66
+label: ocean
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/SolarCell/02_016.jpg
+
+object: 199
+bbox: 47,126,552,180
+label: solar_panel
+
+object: 200
+bbox: 64,23,144,32
+label: mountain
+
+object: 201
+bbox: 6,2,654,55
+label: sky
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/SolarCell/02_017.jpg
+
+object: 202
+bbox: 345,142,59,39
+label: vegetation
+
+object: 203
+bbox: 8,90,132,71
+label: tree
+
+object: 204
+bbox: 346,227,136,104
+label: grass
+
+object: 205
+bbox: 11,166,336,105
+label: solar_panel
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Windmill/01_001.jpg
+
+object: 206
+bbox: 17,475,195,185
+label: windmill
+
+object: 207
+bbox: 172,6,667,652
+label: windmill
+
+object: 208
+bbox: 844,226,335,441
+label: windmill
+
+object: 209
+bbox: 244,620,72,97
+label: windmill
+
+object: 210
+bbox: 452,628,123,95
+label: windmill
+
+object: 211
+bbox: 615,614,66,114
+label: windmill
+
+object: 212
+bbox: 726,623,129,103
+label: windmill
+
+object: 213
+bbox: 816,612,103,109
+label: windmill
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Windmill/01_002.jpg
+
+object: 214
+bbox: 7,698,923,36
+label: ocean
+
+object: 215
+bbox: 99,569,31,127
+label: windmill
+
+object: 216
+bbox: 153,555,38,152
+label: windmill
+
+object: 217
+bbox: 200,553,53,147
+label: windmill
+
+object: 218
+bbox: 257,539,37,157
+label: windmill
+
+object: 219
+bbox: 316,524,28,175
+label: windmill
+
+object: 220
+bbox: 355,535,47,164
+label: windmill
+
+object: 221
+bbox: 412,530,47,169
+label: windmill
+
+object: 222
+bbox: 471,489,43,212
+label: windmill
+
+object: 223
+bbox: 514,476,48,224
+label: windmill
+
+object: 224
+bbox: 569,468,48,227
+label: windmill
+
+object: 225
+bbox: 618,482,44,212
+label: windmill
+
+object: 226
+bbox: 658,432,59,271
+label: windmill
+
+object: 227
+bbox: 715,442,53,258
+label: windmill
+
+object: 228
+bbox: 764,395,62,300
+label: windmill
+
+object: 229
+bbox: 815,399,58,297
+label: windmill
+
+object: 230
+bbox: 868,358,56,346
+label: windmill
+
+object: 231
+bbox: 975,85,167,628
+label: windmill
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Windmill/01_003.jpg
+
+object: 232
+bbox: 23,173,529,169
+label: windmill
+
+object: 233
+bbox: 241,22,228,257
+label: crane
+
+object: 234
+bbox: 9,334,566,36
+label: grass
+
+object: 235
+bbox: 6,5,230,173
+label: sky
+
+object: 236
+bbox: 466,5,149,273
+label: sky
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Windmill/01_004.jpg
+
+object: 237
+bbox: 224,205,107,526
+label: windmill
+
+object: 238
+bbox: 338,178,88,560
+label: windmill
+
+object: 239
+bbox: 429,223,159,505
+label: windmill
+
+object: 240
+bbox: 604,82,154,652
+label: windmill
+
+object: 241
+bbox: 782,82,239,643
+label: windmill
+
+object: 242
+bbox: 239,373,154,152
+label: sun
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Windmill/01_005.jpg
+
+object: 243
+bbox: 15,465,936,189
+label: floor
+
+object: 244
+bbox: 8,5,944,395
+label: sky
+
+object: 245
+bbox: 119,321,33,134
+label: windmill
+
+object: 246
+bbox: 239,283,26,184
+label: windmill
+
+object: 247
+bbox: 338,325,31,141
+label: windmill
+
+object: 248
+bbox: 414,349,26,107
+label: windmill
+
+object: 249
+bbox: 562,19,51,491
+label: windmill
+
+object: 250
+bbox: 702,346,18,104
+label: windmill
+
+object: 251
+bbox: 754,325,33,136
+label: windmill
+
+object: 252
+bbox: 852,286,35,188
+label: windmill
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Windmill/01_006.jpg
+
+object: 253
+bbox: 408,167,194,137
+label: straw_bale
+
+object: 254
+bbox: 15,183,125,99
+label: straw_bale
+
+object: 255
+bbox: 326,26,88,215
+label: windmill
+
+object: 256
+bbox: 205,129,84,113
+label: windmill
+
+object: 257
+bbox: 180,158,38,80
+label: windmill
+
+object: 258
+bbox: 155,181,39,56
+label: windmill
+
+object: 259
+bbox: 149,191,18,43
+label: windmill
+
+object: 260
+bbox: 6,5,315,143
+label: sky
+
+object: 261
+bbox: 414,5,191,158
+label: sky
+
+object: 262
+bbox: 2,284,620,85
+label: grass
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Windmill/01_007.jpg
+
+object: 263
+bbox: -1,68,946,659
+label: windmill
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Windmill/01_008.jpg
+
+object: 264
+bbox: 6,277,220,96
+label: grass
+
+object: 265
+bbox: 381,247,255,67
+label: vegetation
+
+object: 266
+bbox: 9,128,612,103
+label: grass
+
+object: 267
+bbox: 3,243,126,38
+label: vegetation
+
+object: 268
+bbox: 51,69,32,47
+label: windmill
+
+object: 269
+bbox: 94,57,28,59
+label: windmill
+
+object: 270
+bbox: 307,57,23,60
+label: windmill
+
+object: 271
+bbox: 360,67,25,48
+label: windmill
+
+object: 272
+bbox: 131,57,39,63
+label: windmill
+
+object: 273
+bbox: 20,81,17,41
+label: windmill
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Windmill/01_009.jpg
+
+object: 274
+bbox: 362,254,260,71
+label: ocean
+
+object: 275
+bbox: 4,206,167,98
+label: vegetation
+
+object: 276
+bbox: 1,131,137,82
+label: vegetation
+
+object: 277
+bbox: 282,8,35,157
+label: windmill
+
+object: 278
+bbox: 250,24,34,121
+label: windmill
+
+object: 279
+bbox: 219,38,38,107
+label: windmill
+
+object: 280
+bbox: 190,32,48,110
+label: windmill
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Windmill/01_010.jpg
+
+object: 281
+bbox: 200,34,84,176
+label: windmill
+
+object: 282
+bbox: 336,121,64,93
+label: windmill
+
+object: 283
+bbox: 559,132,37,80
+label: windmill
+
+object: 284
+bbox: 298,132,44,75
+label: windmill
+
+object: 285
+bbox: 104,146,30,66
+label: windmill
+
+object: 286
+bbox: 3,215,617,154
+label: grass
+
+object: 287
+bbox: 5,6,613,179
+label: sky
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Windmill/01_011.jpg
+
+object: 288
+bbox: 99,15,302,352
+label: windmill
+
+object: 289
+bbox: 11,264,91,103
+label: windmill
+
+object: 290
+bbox: 421,142,144,230
+label: windmill
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Windmill/01_012.jpg
+
+object: 291
+bbox: 206,76,71,182
+label: windmill
+
+object: 292
+bbox: 409,205,32,49
+label: windmill
+
+object: 293
+bbox: 11,259,601,117
+label: grass
+
+object: 294
+bbox: 0,0,613,254
+label: sky
+
+object: 295
+bbox: 75,288,99,52
+label: cow
+
+object: 296
+bbox: 238,291,40,46
+label: cow
+
+object: 297
+bbox: 33,298,52,30
+label: cow
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Windmill/01_013.jpg
+
+object: 298
+bbox: 128,69,156,300
+label: windmill
+
+object: 299
+bbox: 305,162,91,206
+label: windmill
+
+object: 300
+bbox: 695,192,107,171
+label: windmill
+
+object: 301
+bbox: 843,279,56,70
+label: windmill
+
+object: 302
+bbox: 187,434,739,89
+label: vegetation
+
+object: 303
+bbox: 13,376,924,91
+label: grass
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Windmill/01_014.jpg
+
+object: 304
+bbox: 38,6,174,526
+label: windmill
+
+object: 305
+bbox: 221,7,335,517
+label: sky
+
+object: 306
+bbox: 573,121,211,406
+label: windmill
+
+########## NEW FILE ##########
+file: /home/lydia/DatasetIconicGlobalWarming/Originals/Images/Windmill/01_015.jpg
+
+object: 307
+bbox: 370,29,205,407
+label: windmill
+
+object: 308
+bbox: 547,300,119,106
+label: bird
+
+object: 309
+bbox: 134,118,179,235
+label: building
+
+object: 310
+bbox: 334,171,89,191
+label: building
+
+object: 311
+bbox: 638,108,91,243
+label: building
+
+object: 312
+bbox: 774,160,119,199
+label: building
+
+object: 313
+bbox: 873,239,60,141
+label: building
+
+object: 314
+bbox: 10,439,921,90
+label: ocean
+
+
